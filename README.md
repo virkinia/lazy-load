@@ -9,7 +9,8 @@
 7. Creo la estrutura de archivos desde el terminal:
     me posiciono en la app/components:
     a) añadir npm install --save @angular-devkit/core
-    b)
+    b) ng g component about --module  (el --module no me ha creado module.ts)
+    c)
 
 
 
