@@ -10,7 +10,10 @@
     me posiciono en la app/components:
     a) añadir npm install --save @angular-devkit/core
     b) ng g component about --module  (el --module no me ha creado module.ts)
-    c)
+    c) ng generate component gallery -m (tampoco)
+    d) ng generate module about (sigo en lazy-load/src/app/components)
+    d) ng g module gallery --routing (crea el module.ts y gallery-routing.module.ts)
+
 
 
 
